@@ -9,7 +9,7 @@ This project highlights advanced frontend architecture, component-based design, 
 
 ## 🌐 Live Demo
 
-👉 [carbrandfrontend.vercel.app](carbrandfrontend.vercel.app)  
+👉 [carbrandfrontend.vercel.app](https://carbrandfrontend.vercel.app/)
 
 ---
 
